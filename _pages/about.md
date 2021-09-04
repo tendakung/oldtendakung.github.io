@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me <img src='/images/countrysideofChina.png'>"
+excerpt: "About me <br/><img src='/images/countrysideofChina.png'>"
 author_profile: true
 redirect_from: 
   - /about/
