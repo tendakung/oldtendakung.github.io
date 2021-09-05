@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Finance, The School of Management, University of Science and Technology of China[bs-website](http://en.business.ustc.edu.cn/), 2014
+* M.S. in Economics, The Wang Yanan Institute for Studies in Economics, Xiamen University[ms-website](https://wise.xmu.edu.cn/english/), 2017
+* Ph.D in Development Economics, The Department of Agricultural and Resource Economics, University of California at Davis[phd-website](https://are.ucdavis.edu/), 2023 (expected)
 
 Work experience
 ======
