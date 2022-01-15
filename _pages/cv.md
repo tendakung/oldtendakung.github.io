@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Finance, [The School of Management, University of Science and Technology of China](http://en.business.ustc.edu.cn/), 2014
 * M.S. in Economics, [The Wang Yanan Institute for Studies in Economics, Xiamen University](https://wise.xmu.edu.cn/english/), 2017
-* Ph.D in Development Economics, [The Department of Agricultural and Resource Economics, University of California at Davis](https://are.ucdavis.edu/), 2023 (expected)
+* Ph.D in Development Economics, [The Department of Agricultural and Resource Economics, University of California, Davis](https://are.ucdavis.edu/), 2023 (expected)
 
 Work experience
 ======
