@@ -1,10 +1,7 @@
 # main links links
-main:
-  - title: "Working Papers"
-    url: /workingpapers/  
-    
-  - title: "Papers in Progress"
-    url: /papersinprogress/   
+main: 
+  - title: "Research"
+    url: /papers/   
 
   - title: "Teaching"
     url: /teaching/    
