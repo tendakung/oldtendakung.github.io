@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    :
   email            : "tdgong@ucdavis.edu"
-  researchgate     : "https://www.researchgate.net/profile/Tengda-Gong"
+  researchgate     : # "https://www.researchgate.net/profile/Tengda-Gong"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tendakung"
+  github           : # "tendakung"
   google_plus      :
   keybase          :
   instagram        :
