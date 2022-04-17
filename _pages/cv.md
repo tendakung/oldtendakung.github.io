@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my CV [here](/files/pdf/CV_TengdaGong.pdf).
+You can download my CV [here](/files/pdf/CV_TengdaGong.pdf).
 <iframe src="/files/pdf/CV_TengdaGong.pdf" width="90%" height="450" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
