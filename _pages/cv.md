@@ -9,45 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Finance, [The School of Management, University of Science and Technology of China](http://en.business.ustc.edu.cn/), 2014
-* M.S. in Economics, [The Wang Yanan Institute for Studies in Economics, Xiamen University](https://wise.xmu.edu.cn/english/), 2017
-* Ph.D in Development Economics, [The Department of Agricultural and Resource Economics, University of California, Davis](https://are.ucdavis.edu/), 2023 (expected)
+<iframe src="/files/pdf/TengdaGong-CV.pdf" width="90%" height="400" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+You can download a PDF copy of my CV [here](/files/pdf/TengdaGong-CV.pdf).
